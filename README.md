@@ -1,4 +1,4 @@
-# Partials with Locals 
+# BOOTCAMP.jpg
 
 ## Objectives
 1. Use the locals keyword
