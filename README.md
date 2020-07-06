@@ -7,7 +7,7 @@
 3. Use a partial while rendering a collection
 4. Use a partial from another controller with a local
 
-## Introduction
+## Introduction j
 
 Partials help us break our code up into reusable chunks.  They also often have
 implicit dependencies that can lead to bugs.  For example, what if a partial
